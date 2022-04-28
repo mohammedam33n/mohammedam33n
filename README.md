@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mohammed ameen</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">Backend Developer</h3>
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"alt="Image">
 - 📫 How to reach me **mohamm3dameen@gmail.com**
 <h3 align="left">Connect with me:</h3>
