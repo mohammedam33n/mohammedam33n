@@ -1,14 +1,13 @@
+<!-- --------------------------------------------------------------- -->
 <h1 align="center">
     Hi 👋, I'm mohammed ameen
 </h1>
-
 <h3 align="center">
-    Backend Developer
+    Backend Engineer
 </h3>
-
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Image">
 - 📫 How to reach me **mohamm3dameen@gmail.com**
-
+<!-- --------------------------------------------------------------- -->
 <h3 align="left">
     Connect with me:
 </h3>
@@ -24,7 +23,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed ameen" height="30" width="40" />
     </a>
 </p>
-
+<!-- --------------------------------------------------------------- -->
 <h3 align="left">
     Languages and Tools:
 </h3>
@@ -55,6 +54,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     </a>
 </p>
+<!-- --------------------------------------------------------------- -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 </a>
@@ -73,7 +73,10 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
 </a>
-<h3 align="left">Skills:</h3>
+<!-- --------------------------------------------------------------- -->
+<h3 align="left">
+    Skills:
+</h3>
 <p align="left">
     <strong>Frontend Development:</strong> HTML 5, CSS3, Bootstrap, JavaScript, jQuery, Ajax, Alpine.js, Livewire, Vue.js.<br>
     <strong>Backend Development:</strong> PHP, Laravel, Node.js.<br>
