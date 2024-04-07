@@ -73,3 +73,28 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
 </a>
+<h3 align="left">Skills:</h3>
+<p align="left">
+    <strong>Frontend Development:</strong> HTML 5, CSS3, Bootstrap, JavaScript, jQuery, Ajax, Alpine.js, Livewire, Vue.js.<br>
+    <strong>Backend Development:</strong> PHP, Laravel, Node.js.<br>
+    <strong>Database Technologies:</strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Relational Databases:</strong> MySQL, SQLite.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Non-relational Databases:</strong> Firebase, Redis, Elasticsearch.<br>
+    <strong>Cache Memory Technologies:</strong> Redis, Memcached, Varnish.<br>
+    <strong>Messaging and Queuing Systems:</strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Message Queuing Systems:</strong> Redis, RabbitMQ, Beanstalkd, Kafka.<br>
+    <strong>Web Real-Time Communications:</strong> WebSocket, Socket.IO, WebRTC.<br>
+    <strong>Software Development Practices:</strong> OOP, Clean Code, SOLID, DRY, WET Principles, Design Patterns, Load Balancing.<br>
+    <strong>API Technologies:</strong> REST API, GraphQL API.<br>
+    <strong>Architecture:</strong> MVC, HMVC, Microservices.<br>
+    <strong>Server Technologies:</strong> Apache, Nginx, PHP-FPM.<br>
+    <strong>Cloud and Deployment:</strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Cloud Servers:</strong> AWS, Digital Ocean, Docker.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>AWS Services:</strong> Lambda, SQS, S3, EC2, IAM, CloudFront.<br>
+    <strong>Version Control and Testing:</strong> Git, PHPUnit, Testing frameworks.<br>
+    <strong>Create and develop packages and libraries.</strong><br>
+    <strong>Continuous Integration and Deployment:</strong> GitHub, BitBucket, CI/CD.<br>
+    <strong>Project Management Methodology:</strong> Agile Methodology.<br>
+    <strong>Machine Learning and AI:</strong> TensorFlow.<br>
+    <strong>Operating System:</strong> Linux.
+</p>
